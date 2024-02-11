@@ -3,27 +3,11 @@
     desc: "Born in Swindon"
     category: "self"
 
-'1995-10-29':
-  - name: "My sister, Kristy, is born"
-    category: "family"
-    tags: ['kristy']
+'2008-07-28':
+  - name: "🇺🇸 Orlando - USA"
+    category: "travel"
 
-'1998-10-29':
-  - name: "cheese"
-    category: "family"
-    tags: ['kristy']
-
-'1998-08-25':
-  - name: "I start at Glenmeade Elementary"
-    category: "school"
-
-
-'2001-08-01':
-  - name: "We move to Irvine"
-    category: "family"
-
-
-'2076-05-28':
+'2076-01-08':
   - name: "🚲 Goal: ride a bike on my 100th birthday"
     category: "goal"
     tags: ["health"]
