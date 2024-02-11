@@ -4,15 +4,16 @@
     category: "self"
 
 '2008-07-28':
-  - name: "🇺🇸 Orlando - USA"
+  - name: "Holiday - 🇺🇸 Orlando - USA"
     category: "travel"
 
 '2010-07-23':
-- name: "Sharm El Sheikh - Egypt"
+- name: "Holiday - Sharm El Sheikh - Egypt"
   category: "travel"
+  desc: "With Steph and Parents"
 
 '2011-04-14':
-- name: "Hamburg - Germany"
+- name: "Holiday - Hamburg - Germany"
   category: "travel"
 
 '2011-04-14':
@@ -20,22 +21,214 @@
   category: "travel"
 
 '2011-08-27':
-- name: "Sweden"
+- name: "Holiday - Sweden"
   desc: "Visting Tom with Drew"
   category: "travel"
 
 '2013-08-1':
-- name: "Lucerne - Switzerland"
+- name: "Holiday - Lucerne - Switzerland"
   desc: "Visting Tom"
   category: "travel"
 
   '2013-12-30':
-- name: "Hamburg - Germany"
+- name: "Holiday - Hamburg - Germany"
   category: "travel"
 
-  '2013-12-30':
-- name: "Hamburg - Germany"
+  '2014-04-20':
+- name: "Holiday - Torquay - UK"
   category: "travel"
+  desc: "Seeing the family"
+
+  '2014-03-08':
+- name: "Holiday - Hamburg - Germany"
+  category: "travel"
+  
+  '2014-07-08':
+- name: "Festival - 2000 Tree's"
+  category: "travel"
+  desc: "Alternative Music festival"
+
+  '2015-01-30':
+- name: "Work Ski Trip - Chamonix - France"
+  category: "travel"
+
+ '2015-03-08':
+- name: "Holiday - Brighton - UK"
+  category: "travel"
+  desc: "With Jess"
+
+  '2015-03-08':
+- name: "Holiday - Saint Austell and Trethowel - UK"
+  category: "travel"
+  desc: "With Jess"
+
+  '2015-08-17':
+- name: "Holiday - Rome - Italy"
+  category: "travel"
+  desc: "With Jess"
+
+   '2016-01-30':
+- name: "Holiday - New York - USA"
+  category: "travel"
+  desc: "With Jess"
+
+    '2016-03-31':
+- name: "Holiday - Amsterdam - Netherlands"
+  category: "travel"
+  desc: "With Jess"
+
+  '2016-05-04':
+- name: "Work Trip - Dublin - Ireland"
+  category: "travel"
+  desc: "With Alex"
+
+    '2016-07-02':
+- name: "Stag - Dublin - Ireland"
+  category: "travel"
+  desc: "With Joe"
+
+  '2016-08-06':
+- name: "Holiday - Tenby - Wales"
+  category: "travel"
+  desc: "With Jess and her Family"
+
+    '2016-10-15':
+- name: "Holiday - Dubovnik - Croatia"
+  category: "travel"
+  desc: "With Jess and her Family"
+
+  '2016-11-26':
+- name: "Holiday - Paris - France"
+  category: "travel"
+  desc: "With Jess and her Family"
+
+    '2016-12-06':
+- name: "Work Trip - New York with Tumblr - USA"
+  category: "travel"
+
+      '2017-01-18':
+- name: "Holiday - Edinburgh - Scotland"
+  category: "travel"
+     desc: "With Jess"
+
+ '2017-01-18':
+- name: "Holiday - Edinburgh - Scotland"
+  category: "travel"
+    desc: "With Jess"
+
+     '2017-01-18':
+- name: "Festival - Reading"
+  category: "travel"
+    desc: "With Jess, Rob. Headliners: Muse, Kasabian, Eminem, MUSE, Fickle Friends"
+
+     '2017-12-29':
+- name: "Holiday - Reykjavík - Iceland"
+  category: "travel"
+     desc: "With Jess and her Family"
+
+      '2017-12-29':
+- name: "Holiday - Hamburg - Germany"
+  category: "travel"
+     desc: "With Jess to see Tom"
+
+        '2018-09-26':
+- name: "Holiday - Cambridge - UK"
+  category: "travel"
+     desc: "With Jess to see Tom and Drew"
+
+         '2018-12-28':
+- name: "Holiday - Valencia - Spain"
+  category: "travel"
+     desc: "With Jess and Parents for New Years"
+
+   '2018-10-23':
+- name: "Holiday - Paris - France"
+  category: "travel"
+     desc: "With Jess fore her Birthday"
+
+     '2019-03-11':
+- name: "Holiday - York - UK"
+  category: "travel"
+     desc: "With Jess"
+
+      '2019-04-19':
+- name: "Holiday - Birmingham - UK"
+  category: "travel"
+     desc: "Seeing Harry"
+
+       '2019-07-23':
+- name: "Holiday - Madeira - Portugal"
+  category: "travel"
+
+      '2019-07-23':
+- name: "Holiday - Madeira - Portugal"
+  category: "travel"
+
+  '2019-09-06':
+- name: "Work trip - LA/Cupertino - USA"
+  category: "travel"
+     desc: "For Apple event"
+
+   '2019-09-06':
+- name: "Holiday -Hamburg - Germany"
+  category: "travel"
+     desc: "Seeing Tom"
+
+   '2019-10-19':
+- name: "Holiday - Hamburg - Germany"
+  category: "travel"
+     desc: "Seeing Tom"
+
+      '2019-10-19':
+- name: "Holiday - Morzine Ski Trip - France"
+  category: "travel"
+     desc: "With Archie and Harry"
+
+     '2021-12-24':
+- name: "Holiday - Madrid - Spain"
+  category: "travel"
+     desc: "Seeing Parents"
+
+      '2022-03-14':
+- name: "Holiday - Butlins Bognor-Regis - UK"
+  category: "travel"
+     desc: "Reese's Birthday with Alex"
+
+       '2022-03-22':
+- name: "Holiday - Ibiza - Spain"
+  category: "travel"
+     desc: "With Parents for my Dad's birthday"
+
+      '2022-07-28':
+- name: "Holiday - Hamburg - Germany"
+  category: "travel"
+     desc: "Tom's 30th Birthday party"
+
+           '2022-10-07':
+- name: "Holiday - Guardamar - Spain"
+  category: "travel"
+     desc: "Seeing Parents"
+
+ '2022-12-16':
+- name: "Holiday - Guardamar - Spain"
+  category: "travel"
+     desc: "Seeing Parents"
+
+      '2023-09-27':
+- name: "Holiday - Guardamar - Spain"
+  category: "travel"
+     desc: "Seeing Parents"
+
+        '2022-12-10':
+- name: "Holiday - Oxford - UK"
+  category: "travel"
+     desc: "With Sabi"
+
+       '2023-12-19':
+- name: "Holiday - Guardamar - Spain"
+  category: "travel"
+     desc: "Seeing Parents"
+  
 
 '2076-01-08':
   - name: "🚲 Goal: ride a bike on my 100th birthday"
