@@ -7,6 +7,36 @@
   - name: "🇺🇸 Orlando - USA"
     category: "travel"
 
+'2010-07-23':
+- name: "Sharm El Sheikh - Egypt"
+  category: "travel"
+
+'2011-04-14':
+- name: "Hamburg - Germany"
+  category: "travel"
+
+'2011-04-14':
+- name: "School Rugby Trip - New Zealand & Hong Kong"
+  category: "travel"
+
+'2011-08-27':
+- name: "Sweden"
+  desc: "Visting Tom with Drew"
+  category: "travel"
+
+'2013-08-1':
+- name: "Lucerne - Switzerland"
+  desc: "Visting Tom"
+  category: "travel"
+
+  '2013-12-30':
+- name: "Hamburg - Germany"
+  category: "travel"
+
+  '2013-12-30':
+- name: "Hamburg - Germany"
+  category: "travel"
+
 '2076-01-08':
   - name: "🚲 Goal: ride a bike on my 100th birthday"
     category: "goal"
